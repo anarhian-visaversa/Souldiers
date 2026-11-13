@@ -199,4 +199,4 @@ This repository serves as the official landing page for Souldiers. The software 
 **Get the most recent version of Souldiers today!**
 
 ---
-**Last updated:** 2026-11-13 01:40:23 UTC
+**Last updated:** 2026-11-13 09:04:58 UTC
